@@ -32,7 +32,7 @@ wsl
 
 (2) Install GCC if you haven't by using:
 ```bash
-sudo apt install gc
+sudo apt install gcc
 ```
 OR
 ```bash
