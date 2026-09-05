@@ -27,7 +27,7 @@ Additionally in the repository, it will also include:
 ## Compile
 (1) Initialize Windows Subsystem for Linux by running:
 ```bash
-'wsl'
+wsl
 ```
 
 (2) Install GCC if you haven't by using:
